@@ -1,0 +1,16 @@
+{
+  "name": "lab-dependency-master",
+  "version": "1.0.0",
+  "description": "Thư viện tối ưu hóa các phép toán đại số cho sinh viên kỹ nghệ phần mềm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tam Nguyen",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
